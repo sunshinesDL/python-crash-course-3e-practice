@@ -1,0 +1,3 @@
+wisdom_saying1 = 'Albert Einstein once said, “A person who never made amistake never tried anything new.”'
+
+print(wisdom_saying1)
