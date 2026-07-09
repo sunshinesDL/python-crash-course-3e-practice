@@ -1,0 +1,8 @@
+[tool.ruff.lint]
+select = [
+    "E4",   # pycode_style:导入、缩进等相关错误
+    "E7",   # pycode_style：语法相关错误
+    "E9",   # pycode_style：严重语法错误
+    "F",    # Pyflakes：未使用导入、未定义变量等
+    "N",    # pep8-naming：检查函数名、变量名等命名规范
+]
