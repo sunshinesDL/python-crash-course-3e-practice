@@ -1,3 +1,9 @@
+# Created Time: 2026/07/09
+# Author: sunshinesDL (sunshinesDL@163.com)
+
+"""Test strip() & lstrip() & rstrip()."""
+
+
 cats = "\tMimi\t&\tXiaomi\n"
 
 print(cats)
